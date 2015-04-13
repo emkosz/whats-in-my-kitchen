@@ -4,9 +4,12 @@ import os
 # Autor: Emma Koszinowski
 # Date: 04/13/2015
 
-# A program that keeps a check on the food stuffs in the users kitchen. The program stores a list of food stuff in a file between runs that makes it possible to print a list of what's available and/or what is running out. It's also possible to search for specific articles.
+# A program that keeps a check on the food stuffs in the users kitchen. 
+# The program stores a list of food stuff in a file between runs that makes it possible to print 
+# a list of what's available and/or what is running out. It's also possible to search for specific articles.
 
-# I made this program during an academic introduction course to programming at The Royal institute of Technology in Stockholm. 
+# I made this program during an academic introduction course to programming at The Royal institute of Technology 
+# in Stockholm. 
 
 
 # -----------------------------------------
