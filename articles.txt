@@ -1,0 +1,8 @@
+apples, red, 6
+beer, IPA, 6
+tomatos, organic, 5
+bread, full grain, a foot long, running out
+sugar, organic, 1 kilo
+wine, pinot noir, 1 bottle
+avocado, organic, 4
+bread, bagles, 2
